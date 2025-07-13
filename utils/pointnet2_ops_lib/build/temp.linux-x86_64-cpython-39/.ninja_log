@@ -1,0 +1,10 @@
+# ninja log v5
+1	8239	1739043015437972370	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/sampling.o	e1139440d295035d
+1	8252	1739043015449973075	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/group_points.o	60053b327224b411
+0	8271	1739043015470974310	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/ball_query.o	d9fdff38cf2f2cc9
+1	9455	1739043016655043781	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/interpolate.o	b36e361f0f15b2be
+1	9523	1739043016723047766	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/bindings.o	e073be22776cd8f6
+1	24803	1739043031988922841	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/group_points_gpu.o	9c46984d6f74c7eb
+1	24823	1739043032010924075	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/interpolate_gpu.o	7b6f3dc13af2c3b0
+0	24889	1739043032077927828	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/ball_query_gpu.o	14b4d436a471aa31
+1	26863	1739043034052038226	/home/ali/robotics/PointAttN-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-39/pointnet2_ops/_ext-src/src/sampling_gpu.o	c3f367fa97bbffbb

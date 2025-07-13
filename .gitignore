@@ -1,0 +1,6 @@
+sam2_hiera_small.pt
+data_files/
+__pycache__/
+utils/__pycache__/
+utils/mm3d_pn2/
+log/
