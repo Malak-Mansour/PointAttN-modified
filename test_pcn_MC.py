@@ -72,7 +72,7 @@ def test():
                 v.update(result_dict[k].mean().item())
 
             # MC Dropout Passes with alignment
-            T = 20
+            T = 60
             all_out2 = []
             for _ in range(T):
                 temp_result = net(inputs, gt, is_training=False)
